@@ -1,4 +1,4 @@
-## Video Annotation Tool (Google Cloud Vision API)
+## Video Annotation Tool (Google Cloud Video Intelligence API)
 <div style="display: flex;">
   <img src="sample1.png" alt="Annotated Video Sample 1" width="400" />
   <img src="sample2.png" alt="Annotated Video Sample 2" width="400" />
