@@ -1,7 +1,6 @@
-
-
 ## Video Annotation Tool (Google Cloud Vision API) 
-
+![Annotated Video Sample](sample1.png)
+![Annotated Video Sample](sample2.png)
 ## Introduction
 This project provides a video annotation tool that can draw bounding boxes and labels around logos and text detected in a video using json response returned by google cloud vision api.
 ### Google Cloud Vision API
